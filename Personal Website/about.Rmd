@@ -1,5 +1,8 @@
 ---
-title: "About This Website"
+title: "My Research"
 ---
 
-More about this website.
+![Tagging Cod for Active Acoustic Telemetry / Maine](/Users/sidneyreel/UNH/BIOL806/Personal Website/cod_surgery_ME.png)
+
+
+My research focuses on movement ecology of *Gadus morhua*, or Atlantic Cod. A species historically important to New England, my lab is interested in gaining a better understanding of the movement, diets genetics and environmental conditions that inform the local ecology of Atlantic cod. Additionally, we are interested in how that ecology fits with marine biodiversity in the Gulf of Maine more generally, and how that might better influence management decisions. This is being done using a range of techniques, including passive and active acoustic telemetry, diet content studies, environmental DNA (eDNA), and genetics/stable isotopes.    

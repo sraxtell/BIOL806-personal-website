@@ -1,9 +1,9 @@
-name: "my-website"
+name: "Sidney-Axtell"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Sidney Axtell"
   left:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
-    - text: "About"
+    - text: "Research"
       href: about.html

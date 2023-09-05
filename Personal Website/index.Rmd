@@ -1,9 +1,13 @@
 ---
-title: "My Website"
+title: "About Me"
 ---
+![Sidney Axtell / Juneau, AK](/Users/sidneyreel/UNH/BIOL806/Personal Website/fish_creek_AK.png)
 
-Hello, Website!
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+Hello!
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+My name is Sidney Axtell. I am a PhD student studying Marine Biology at the University of New Hampshire. I studied Biology and Spanish at Seattle University, before doing two years of AmeriCorps in Hood River, Oregon. After AmeriCorps, I spent several years working as a marine fisheries observer on commercial fishing vessels in the Bering Sea/Aleutian Islands and Gulf of Alaska. Before UNH, I attended the Yale School of the Environment for my masters. 
+
+I grew up in the Pacific Northwest in Seattle, WA and love the outdoors! On the weekends, you will most often find me at the beach or in the mountains. My favorite activities include rock climbing, hiking, skiing/boarding and running. Weekend warrior activities complete, I love to cook, bake, create, or read a good book with a huge mug of coffee at hand. Goals for this year: Learn how to surf and become certified as a scientific diver.
+
+  
